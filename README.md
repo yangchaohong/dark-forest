@@ -1,4 +1,5 @@
 # dark-forest
+Minecraft游戏插件
 CraftBukkit插件
 用BukkitMC验证《三体》黑暗森林法则
 目标：验证科幻小说《三体》中黑暗森林法则是否真实存在。
