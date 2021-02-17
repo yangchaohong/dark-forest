@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dark-forest.iml" filepath="$PROJECT_DIR$/dark-forest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dark-jfs/dark-jfs.iml" filepath="$PROJECT_DIR$/dark-jfs/dark-jfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dark-web/dark-web.iml" filepath="$PROJECT_DIR$/dark-web/dark-web.iml" />
+    </modules>
+  </component>
+</project>
