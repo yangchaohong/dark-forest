@@ -1,0 +1,23 @@
+name: dark
+main: org.AbuzzHarbor9999.dark.Main
+version: 1.0
+author: AbuzzHarbor9999
+api-version: 1.16
+
+commands:
+  Isinwm:
+    description: "Dark Forest - Are you in a Organization/Civilization."
+    aliases:
+      - isinwm
+    usage: /isinwm
+  Createwm:
+    description: "Dark Forest - Create an organization/civilization"
+    usage: /Createwm <Wmname>
+    aliases: [cwm]
+  joinwm:
+    description: "Dark Forest - Join an organization/civilization"
+    usage: /joinwm <Wmname>
+    aliases: [ jwm ]
+  chatwm:
+    description: "Dark Forest - Chat to other gays in your organization/civilization"
+    usage: /chatwm
